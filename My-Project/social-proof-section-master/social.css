@@ -1,0 +1,151 @@
+body {
+    font-size: 15px ;
+    font-family: 'League Spartan', sans-serif;
+    background-color: hsl(300, 24%, 96%);
+    margin: 0;
+   
+    
+}
+
+.main-contaner {
+   position: relative;
+   margin: auto;
+}
+
+ h1 {
+    color: hsl(300, 43%, 22%);
+    font-size: 50px;
+    width: 27.5%;
+    position: absolute;
+    top: 95px;
+    left: 140px;
+ }
+
+ .dis {
+    position: absolute;
+    left: 140px;
+    top: 300px;
+    width: 380px;
+    color:hsl(303, 10%, 53%);
+
+ }
+
+ 
+
+.rate-container {
+   position: absolute;
+   top: 140px;
+   right: 0px;
+
+}
+
+.rate-pos1 {
+   background-color: #efe4ef;
+   height: 50px;
+   margin: 10px;
+   width: 400px;
+   border-radius: 8px;
+   font-weight: 700;
+   position: relative;
+    right: 100px;
+   
+}
+.rate-pos2 {
+   background-color: #efe4ef;
+   height: 50px;
+   margin: 10px;
+   width: 400px;
+   border-radius: 8px;
+   font-weight: 700;
+   position: relative;
+    right: 50px;
+   
+}
+.rate-pos3 {
+   background-color: #efe4ef;
+   height: 50px;
+   margin: 10px;
+   width: 400px;
+   border-radius: 8px;
+   font-weight: 700;
+}
+
+
+.vertical {
+   line-height: 50px;
+   text-indent: 1.5rem;
+}
+
+.comments1 {
+   position: absolute;
+   left: 140px;
+   bottom: -250px;
+   background-color: hsl(300, 43%, 22%);
+   width: 300px;
+   height: 200px;
+   border-radius: 8px;
+   color: hsl(0, 0%, 100%);
+   font-weight: 400;
+}
+.comments2 {
+   position: absolute;
+   right: 550px;
+   bottom: -270px;
+
+   
+   background-color: hsl(300, 43%, 22%);
+   width: 300px;
+   height: 200px;
+   border-radius: 8px;
+   color: hsl(0, 0%, 100%);
+   font-weight: 400;
+}
+.comments3 {
+   position: absolute;
+   right: 220px;
+   bottom: -290px;
+
+   background-color: hsl(300, 43%, 22%);
+   width: 300px;
+   height: 200px;
+   border-radius: 8px;
+   color: hsl(0, 0%, 100%);
+   font-weight: 400;
+}
+
+.profile {
+   position: relative;
+   left: 20px;
+   top: 20px;
+   width: 15%;
+   border-radius: 20px;
+   
+   
+}
+
+.pink {
+   color:hsl(333, 80%, 67%);
+   line-height: 2;
+   
+}
+
+.name {
+   position: relative;
+   bottom: 30px;
+   margin-left: 85px;
+   
+}
+
+.comm {
+   width: 260px;
+   margin: auto;
+   margin-top: -25px;
+   
+}
+
+.svg {
+   position: absolute;
+   margin: auto;
+   right: 1px;
+}
+
